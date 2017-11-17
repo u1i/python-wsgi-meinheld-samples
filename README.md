@@ -1,1 +1,1 @@
-# python-wsgi-meinheld-samples
+Sample scripts for meinheld Python WSGI Server
